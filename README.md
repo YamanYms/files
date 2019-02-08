@@ -1,0 +1,2 @@
+# files
+Arabic language file
